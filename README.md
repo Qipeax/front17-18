@@ -2,7 +2,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-репозиторий.git
+git clone https://github.com/Qipeax/front17-18.git
 
 ```
 
